@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool:
-  pool: trial
+pool: trial
 
 steps:
 - task: Maven@3
